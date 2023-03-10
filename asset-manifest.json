@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/shingo/static/css/main.073c9b0a.css",
+    "main.js": "/shingo/static/js/main.241ec304.js",
+    "static/js/787.c80b0924.chunk.js": "/shingo/static/js/787.c80b0924.chunk.js",
+    "static/media/logo.svg": "/shingo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/shingo/index.html",
+    "main.073c9b0a.css.map": "/shingo/static/css/main.073c9b0a.css.map",
+    "main.241ec304.js.map": "/shingo/static/js/main.241ec304.js.map",
+    "787.c80b0924.chunk.js.map": "/shingo/static/js/787.c80b0924.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.241ec304.js"
+  ]
+}
